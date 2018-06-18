@@ -15,11 +15,12 @@ window.onload = () => {
   btnAnimals.addEventListener('click', () => {
     dogesCatesBirds();    
   })
+
+//  const loader = document.getElementById('loader');
+ 
   
-
-
-//  obtenerGatos();
-//  dogesYCatesEnParalelo();
+  //  obtenerGatos();
+  //  dogesYCatesEnParalelo();
 };
 
 //La función puede ser llamada desde cualquier parte
